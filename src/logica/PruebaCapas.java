@@ -10,6 +10,7 @@ public class PruebaCapas {
 		panta.setVisible(true);
 		panta.setLocationRelativeTo(null); //Ponela en medio de la pantalla
 		
+		
 	}
 
 }
